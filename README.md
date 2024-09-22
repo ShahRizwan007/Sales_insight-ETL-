@@ -27,14 +27,14 @@ Corporate segment contributes most in revenue.
 East region contributes most in profit and chairs sub category contributes most in profit margin.
 
 # Tool Used:
--Python
--SQL
--Power Bi
+--Python
+--SQL
+--Power Bi
 
 # Tool learing
--pyhon for extracting and cleaning data
--SQL advances queries
--power bi dax
+--pyhon for extracting and cleaning data
+--SQL advances queries
+--power bi dax
 
 # dataset link:https://www.kaggle.com/datasets/ankitbansal06/retail-orders
 
