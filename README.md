@@ -38,12 +38,12 @@ Finally, I created an interactive Power BI dashboard for easy understanding of t
 - Power BI DAX
 
 
-# dataset link:https://www.kaggle.com/datasets/ankitbansal06/retail-orders
+**dataset link**:https://www.kaggle.com/datasets/ankitbansal06/retail-orders
 
-# follow me on github and linkedin for more useful data analyst project
+**follow me on github and linkedin for more useful data analyst project**
 
-# github profile:https://github.com/ShahRizwan007/Sales_insight-ETL-python-SQl-powerBi-
-# linkedin profile :www.linkedin.com/in/shahrizwan819
+**github profile**:https://github.com/ShahRizwan007/Sales_insight-ETL-python-SQl-powerBi-
+**linkedin profile**:www.linkedin.com/in/shahrizwan819
 
 
 
