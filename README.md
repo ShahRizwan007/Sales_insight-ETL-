@@ -1,40 +1,42 @@
-# Sales_insight-ETL(PYTHON+SQL+POWERBI)
 
-This datase contain sales information of retail orders of a store, In this project I extract sales insight from dataset like Total Revenue,profit margin ,which country contributes most in revenue and which is contributing most in Profit margin and more useful insight.
+# Sales Insight - ETL (Python + SQL + Power BI)
+
+This dataset contains sales information of retail orders from a store. In this project, I extract sales insights from the dataset, such as total revenue, profit margin, which country contributes the most to revenue, and which contributes the most to profit margin, along with other useful insights.
 
 # Approach
-I am going to use ETL(Extract Transform Load) methodology for this dataset means first we are going to extract dataset ,transform it to usable format and then load data to appropiate database for finding data Insight.
+I am using the ETL (Extract, Transform, Load) methodology for this dataset, which means first we will extract the dataset, transform it into a usable format, and then load the data into an appropriate database to find insights.
 
--1.Extract:
-I am using python for extracting dataset from kaggle for that i am used opendatasets library for downloading dataset.
-After downloading dataset, I used Pandas for importing data in python.
+**1. Extract:**
+I used Python for extracting the dataset from Kaggle, and for that, I used the `opendatasets` library to download the dataset.
+After downloading the dataset, I used Pandas to import the data into Python.
 
---2.Transform:
-After importing data ,next step is to clean data.
-Cleaning data envolves checking column ,change some column name and thier data type if required,check for duplicates values and removed if found any,replace some unwanted value with null values,replacing null value with mean,median and mode for numerical and categorical data respectively,remove some unwanted column and add some necessary column etc.
+**2. Transform:**
+After importing the data, the next step is to clean it.
+Cleaning the data involves checking columns, changing some column names and their data types if required, checking for duplicate values and removing them if found, replacing some unwanted values with null values, replacing null values with mean, median, and mode for numerical and categorical data respectively, removing some unwanted columns, and adding some necessary columns, etc.
 
---3.Load:
-After Transforming data I loaded dataset into Mysql database using Sqlalchemy,Mysql connector and pandas libraries.
-In mysql, I Found some sales insight like which are top revenue genrating product,highest selling product by region ,sales comparison by each month and year etc.
+**3. Load:**
+After transforming the data, I loaded the dataset into a MySQL database using SQLAlchemy, MySQL Connector, and Pandas libraries.
+In MySQL, I found some sales insights, such as which are the top revenue-generating products, the highest-selling products by region, sales comparisons by each month and year, etc.
 
-Finally i created a interactive powerbi dashboard for simple understanding of insight for stake holders.
+Finally, I created an interactive Power BI dashboard for easy understanding of the insights by stakeholders.
 
-# Key findings:
-In terms of revenue buisness is performing good but in terms of profit margin situtaion is not happy.
-Revenue is increase from 2022 to 2023 but profit margin decrease.
-Top revenue contributing states are California,New York and washington respectively.
-Corporate segment contributes most in revenue.
-East region contributes most in profit and chairs sub category contributes most in profit margin.
+# Key Findings:
+- In terms of revenue, the business is performing well, but the profit margin situation is concerning.
+- Revenue increased from 2022 to 2023, but the profit margin decreased.
+- The top revenue-contributing states are California, New York, and Washington, respectively.
+- The Corporate segment contributes the most to revenue.
+- The East region contributes the most to profit, and the Chairs sub-category contributes the most to profit margin.
 
-# Tool Used:
---Python
---SQL
---Power Bi
+# Tools Used:
+- Python
+- SQL
+- Power BI
 
-# Tool learing
---pyhon for extracting and cleaning data
---SQL advances queries
---power bi dax
+# Tool Learning:
+- Python for extracting and cleaning data
+- Advanced SQL queries
+- Power BI DAX
+
 
 # dataset link:https://www.kaggle.com/datasets/ankitbansal06/retail-orders
 
