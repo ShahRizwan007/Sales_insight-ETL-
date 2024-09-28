@@ -39,6 +39,7 @@ Finally, I created an interactive Power BI dashboard for easy understanding of t
 
 
 **dataset link**:https://www.kaggle.com/datasets/ankitbansal06/retail-orders
+**PowerBi dashboard Link**:https://app.powerbi.com/groups/me/reports/23da0e33-81fa-4f46-9096-d14d4daa9f0b/04fa1700f4ca96d1f898?experience=power-bi
 
 **follow me on github and linkedin for more useful data analyst project**
 
